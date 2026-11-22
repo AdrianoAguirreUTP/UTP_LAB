@@ -1,15 +1,15 @@
-# Laboratorio de Redes y Sistemas | UTP
+# Laboratorio de Simulación de Redes en Cisco Packet Tracer | UTP
 
-Repositorio académico de soporte para laboratorios y prácticas de la carrera en la **Universidad Tecnológica de Panamá (UTP)**.
+Repositorio académico dedicado exclusivamente a prácticas y simulaciones de redes en **Cisco Packet Tracer** en la **Universidad Tecnológica de Panamá (UTP)**.
 
 ## Propósito del Laboratorio
-Documentar de forma clara y ordenada los laboratorios prácticos realizados en la carrera, aplicando buenas prácticas de control de versiones, registro de evidencias y documentación técnica.
+Diseñar, configurar y verificar topologías de red simuladas para comprender el direccionamiento, la conectividad y el flujo de paquetes entre dispositivos de red.
 
 ## Topologías y Entorno de Pruebas
-- **Entorno de red:** Red local (LAN), pruebas de conectividad y evaluación de dispositivos de red domésticos (Huawei EchoLife HG8245, HG8245H y HG8245W5) y simulaciones en Cisco Packet Tracer / máquinas virtuales.
-- **Sistemas operativos de apoyo:** Linux (CachyOS, Ubuntu/Debian, Kali Linux) y Windows / Windows Server 2022.
+- **Herramienta de simulación:** Cisco Packet Tracer.
+- **Topologías y dispositivos:** Escenarios de red con dispositivos finales (PCs/hosts), dispositivos de interconexión (switches/routers) y segmentación/pruebas de conectividad.
 
 ## Procedimientos Realizados
-1. **Verificación de conectividad y configuración de red:** Comprobación de interfaces, direccionamiento IP, rutas y resolución de nombres.
-2. **Revisión y diagnóstico de dispositivos/topologías:** Análisis de parámetros de red, comportamiento del sistema y configuración básica.
-3. **Registro de evidencias y documentación:** Organización de pasos ejecutados, observaciones y medidas preventivas en el repositorio.
+1. **Diseño de topología:** Colocación y conexión física/lógica de dispositivos de red en Cisco Packet Tracer.
+2. **Configuración de red:** Asignación de direcciones IP, máscaras, puertas de enlace y parámetros necesarios según el diseño.
+3. **Pruebas y verificación:** Comprobación de conectividad y análisis del comportamiento de la red en el entorno simulado.
