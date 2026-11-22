@@ -1,0 +1,18 @@
+# Archivos temporales del sistema y editores
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+*.swp
+*~
+
+# Archivos pesados de máquinas virtuales o capturas locales
+*.iso
+*.vdi
+*.vmdk
+*.pcap
+*.pcapng
+
+# Archivos de configuración local de IDE
+.vscode/
+.idea/
