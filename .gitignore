@@ -6,12 +6,9 @@ Thumbs.db
 *.swp
 *~
 
-# Archivos pesados de máquinas virtuales o capturas locales
-*.iso
-*.vdi
-*.vmdk
-*.pcap
-*.pcapng
+# Archivos de respaldo o temporales de simulación
+*.bak
+*.temp
 
 # Archivos de configuración local de IDE
 .vscode/
